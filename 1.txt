@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-My first file
-=======
-Testing 1.txt
->>>>>>> de9cbd6bbe9ef2ee7c5553a5e010bbe0dc11d767
